@@ -5,6 +5,6 @@ Las cosas se hacen asi
 
 Siempre hay que tener en cuenta que
  - [x] Si?
- - [ ] No?
+ - [x] No?
 
-Y por si necesitas ayuda, [aqui](http://www.google.com)
+Y por si necesitas ayuda, [aqui](https://www.google.es)
