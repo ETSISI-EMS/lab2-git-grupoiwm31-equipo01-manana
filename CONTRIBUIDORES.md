@@ -1,3 +1,3 @@
-Gonzalo Pueblah
+Gonzalo Puebla
 
-Rubén Rencon
+Rubén Rincon
